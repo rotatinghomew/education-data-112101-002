@@ -1,0 +1,4 @@
+check_id,credential_ref,source_ref,checked_at,result,valid_from,valid_to,supersedes
+CH-1,CR-1,SRC-1,2026-01-05,not_authoritative,2026-01-05,,
+CH-2,CR-2,SRC-2,2026-02-15,issuer_confirmed,2026-02-15,2026-05-31,
+CH-3,CR-2,SRC-2,2026-06-01,revoked,2026-06-01,,CH-2

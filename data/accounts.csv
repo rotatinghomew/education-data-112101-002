@@ -1,0 +1,4 @@
+account_ref,merchant_ref,active_from,active_to,service_scope
+A-1,M-1,2025-01-01,,parent_guidance
+A-2,M-1,2025-06-01,,counselling
+A-3,M-2,2026-01-01,,parent_guidance

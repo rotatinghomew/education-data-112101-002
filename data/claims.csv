@@ -1,0 +1,4 @@
+claim_id,person_ref,account_ref,merchant_ref,service_scope,title_text,claimed_at
+CL-1,P-1,A-1,M-1,parent_guidance,高级家庭教育指导师,2026-01-02
+CL-2,P-1,A-2,M-1,counselling,心理咨询师,2026-02-10
+CL-3,P-2,A-3,M-2,parent_guidance,家庭教育指导师,2026-02-12
